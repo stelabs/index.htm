@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+    <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Currículo de Stela Bruno da Silva">
+        <title>Stela Bruno da Silva</title> 
+        <style>
+            h1{color: darkslategray;}
+            h2{color: darkcyan;}
+            h3{color: cadetblue;}
+            p{color: dimgray;}
+            ul{color: dimgray;}
+            .periodo{color: cadetblue} 
+        
+        </style>
+        </head>
+        <body>
+            <h1>Stela Bruno da Silva</h1>
+                <p>Av. Jabaquara, 1469<br>
+                São Paulo - SP</p>	
+                    <h2>Contato</h2>
+                        <p>stelabs&#64;outlook.com.br<br>
+                        (11) 96142-2979</p>
+
+                    <h2>Objetivos</h2>
+
+                        <p>Análise de ferramentas de comunicação com ênfase em linguagem verbal e visual.</p>
+
+                    <h2>Instrução Acadêmica</h2>
+
+                        <h3>Senac São Paulo</h3>
+                            <p><b>- Pós-Graduação em Gestão da Comunicação em Mídias Digitais</b> (02/2016 – 07/2017) - Concluído</p>
+
+                        <h3>UNINOVE</h3>
+                            <p><b>- Comunicação Social - Jornalismo</b> (02/2008 - 11/2012) - Concluído</p>
+
+
+                    <h2>Resumo</h2>
+
+                        <p>Experiência como Analista de Comunicação, com foco em criação textual e visual para público interno e externo. Relacionamento com o cliente para buscar soluções e melhorias. Responsável pelo calendário anual de campanhas de engajamento, visando melhorar os índices de qualidade do Call Center. Organização de eventos para divulgação da marca. Auxílio na definição dos fluxos de atendimento junto ao cliente para o Call Center. Criação de materiais visuais para banners e TV. Especialista em gestão de conteúdo digital do Terceiro Setor para diversos ambientes (redes sociais, sites institucionais, manuais, boletins para público interno e externo, entre outros). Experiência no uso de técnicas de SEO para e-Commerce, visando melhorar o ranqueamento orgânico nas plataformas de pesquisa. Análise e companhamento de acessos via Google Analytics.</p>
+
+                    <h2>Cursos / Especializações</h2>
+                        <p><b>- Google Analytics - Como extrair insights</b> - FAAP 05/2018<br>
+                        <b>- Formação Executiva em Comunicação Empresarial</b> - UNINOVE 02/2008&nbsp;-&nbsp;11/2010</p> 
+
+
+                    <h2>Experiências Profissionais:</h2>
+
+                        <h3>Grupo Qualicorp</h3>      
+                            <p class="periodo";><b>11/2014 - Atual</b></p>   
+                            <p><b>Ramo:</b> Administradora de Benefícios<br>		
+                            <b>Cargo:</b> Analista de Qualidade Junior<br>
+                            Ênfase em comunicação. Análise, criação e revisão textual e visual do manual de apoio ao Call Center. Implantação e gerenciamento da ferramenta de Intranet Novo Expresso (MMCafé), criação e administração de logins, edição e publicação de textos e imagens. Reuniões mensais com o Call Center para entender suas necessidades quanto aos manuais de apoio. Reuniões periódicas com clientes externos para o alinhamento de informações e fluxos dos processos da Companhia. Ações de comunicação para a divulgação de comunicados e de ações corporativas aos funcionários do Call Center. Confecção de relatórios semanais e mensais de acompanhamento de acessos dos usuários. Brainstorming mensal para definir ações de melhorias na comunicação com o Call Center. Construção e aprovação de roteiros para vídeos corporativos. Criação e gerenciamento de conteúdo para exibição nas TVs corporativas. Criação e execução de campanhas motivacionais e eventos para a melhoria dos indicadores da operação.</p>
+
+                        <h3>Grupo IDOC</h3>                                  
+                            <p class="periodo";><b>06/2013 - 08/2014</b></p>
+                            <p><b>Ramo:</b> Marketing Digital<br>				
+                            <b>Cargo:</b> Redatora Líder<br>
+                            Supervisão da equipe de redatores de e-commerce. Gestão e revisão do conteúdo criado pelos redatores. Aprovação de peças em HTML.</p>
+
+                            <p class="periodo";><b>09/2014 - 11/2014</b></p>
+                            <p><b>Cargo:</b> Redatora<br>
+                            Criação de conteúdo textual para e-commerce com utilização de técnicas de SEO. Cadastro de produtos na plataforma VTEX.</p>
+
+                        <h3>CARE Brasil</h3>
+                            <p class="periodo";><b>07/2012 – 04/2013</b></p>
+                            <p><b>Ramo:</b> Terceiro Setor<br>
+                            <b>Cargo:</b> Analista de Comunicação Junior<br>
+                            Redação de boletins internos e externos, social media, redação para site institucional, revisão de releases, contatos com fontes, elaboração de estratégias de comunicação.</p>
+
+                <h2>Conhecimentos específicos:</h2>
+                    <ul>
+                        <li>Google Analytics;</li>
+                        <li>Inglês intermediário;</li>
+                        <li>Plataforma VTEX;</li>
+                        <li>Blogger e Wordpress;</li>
+                        <li>Pacote Office;</li>
+                        <li>Plataforma de base de conhecimento Novo Expresso;</li>
+                        <li>OpSocial;</li>
+                        <li>HTML;</li>
+                        <li>Instagram Business</li>
+                    </ul>
+    </body>
+</html>
